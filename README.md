@@ -1,99 +1,122 @@
 <h1 align="center">Hi 👋, I'm Lokam Harika</h1>
-<h3 align="center">B.Tech AIML Student | AI & Software Developer | Problem Solver</h3>
+<h3 align="center">🤖 Aspiring AI Engineer | 🎓 Final Year AIML Student | 🚀 Building Intelligent Systems</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LokamHarika&label=Profile%20views&color=0e75b6&style=flat" alt="LokamHarika" />
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+📍 Hyderabad, Telangana, India 🇮🇳  
+🎓 B.Tech AIML | CGPA: 9.28  
+💡 Passionate about AI, ML & Generative AI
 </p>
 
 ---
 
-### 👩‍🎓 About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (2022–2026)  
-🏫 Malla Reddy Engineering College for Women, Hyderabad  
-📊 CGPA: 9.28  
+✨ Tech enthusiast who loves building real-world AI solutions  
+🧠 Strong foundation in Data Structures & Algorithms  
+🤝 Team player with leadership & problem-solving mindset  
+📈 Always learning & exploring cutting-edge AI innovations  
 
-💡 Passionate about AI-driven systems, real-time applications, and scalable web platforms.  
-🚀 Interested in building intelligent healthcare and smart traffic solutions.  
-🤝 Open to collaborations in AI, Data Analysis, and Full-Stack Development.  
-
-📍 Hyderabad, Telangana, India  
-📫 Reach me at: **harikalokam2005@gmail.com**
+🌱 Currently exploring **Generative AI & Intelligent Systems**
 
 ---
 
-### 💼 Internship Experience
+## 💼 Experience
 
-#### 🔹 Robokalam – Intern (May 2025 – July 2025)
-**Project: KodeZ – E-Learning Platform**
-- Developed a role-based authentication system with secure login.
-- Implemented Google social login, referral-based signup, and email password recovery.
-- Ensured scalable and real-time accessible web architecture.
+### 🔹 Intern – KodeZ (Robokalam) | May 2025 – July 2025
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+</p>
 
-#### 🔹 Infosys Springboard Internship 5.0 (Feb 2025 – Mar 2025)
-**Project: Smart Traffic Management System**
-- Integrated YOLO and OCR models for ANPR and ATCC.
-- Built real-time traffic monitoring with automated violation detection.
-- Developed intelligent features for scalable smart road systems.
+🔐 Built secure role-based authentication system  
+🔑 Implemented Google Social Login & Email Password Recovery  
+🚀 Designed scalable real-world e-learning architecture  
 
 ---
 
-### 🧠 Projects
+### 🔹 Infosys Springboard Internship 5.0 | Feb 2025 – Mar 2025  
+**🚦 Smart Traffic Management System**
 
-#### 🔹 Pain Recognition using Physiological Signals
-- Built CNN + Bi-LSTM model for classifying pain levels.
-- Used EDA and ECG signals for real-time assessment.
-- Designed for intelligent healthcare integration.
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="250"/>
+</p>
 
-#### 🔹 AI Song Lyrics Generator
-- Developed NLP-based lyric generation system.
-- Integrated Gemini API with Streamlit interface.
-- Generated real-time customized lyrics based on genre & mood.
-
----
-
-### 🛠 Technical Skills
-
-**Programming:** Java, Python, C, Data Structures & Algorithms  
-**Web Technologies:** HTML, CSS, JavaScript  
-**Database:** SQL  
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, Pandas  
-**Tools:** Jupyter Notebook, Google Colab, VS Code, MS Excel, PowerPoint  
+🤖 Integrated YOLO & OCR for ANPR & ATCC  
+📊 Real-time traffic monitoring & intelligent automation  
+🌍 Built scalable web-based AI interaction system  
 
 ---
 
-### 📜 Certifications
+## 🚀 Projects
 
-- NPTEL – Programming, Data Structures & Algorithms using Python (2025)
-- Coursera – Java Certification (2024)
-- Cambridge English Empower Level C1 (2024)
-- 24-Hour Hackathon Participant – ALEAP WEHUB @ JNTUH (Supported by AIM NITI Aayog & GOI)
+### 🏥 Pain Recognition using Physiological Signals
+🧠 CNN + Bi-LSTM Model  
+📈 Classified pain levels using EDA & ECG signals  
+💡 Designed for intelligent healthcare integration  
 
 ---
 
-### 🌐 Connect With Me
+### 🎵 AI Song Lyrics Generator
+🎶 NLP-based personalized lyric generation  
+⚡ Integrated Gemini API with Streamlit  
+🎤 Generates lyrics based on mood, genre & rhyme scheme  
 
-<p align="left">
-<a href="https://www.linkedin.com/in/harika-lokam-4b7b1b2a1" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://github.com/LokamHarika" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+💻 Java | 🐍 Python | 🔵 C  
+📚 Data Structures & Algorithms  
+
+### 🌐 Web Technologies
+🌍 HTML | 🎨 CSS | ⚡ JavaScript  
+
+### 🧠 AI / ML
+🤖 CNN | 🔁 Bi-LSTM | 👁️ YOLO | 🔍 OCR | 📝 NLP  
+
+### 🗄️ Database
+🛢️ SQL  
+
+### 🛠️ Tools
+🖥️ VS Code | 📓 Jupyter Notebook | ☁️ Google Colab  
+📊 MS Excel | 📄 MS Word | 📈 PowerPoint  
+
+---
+
+## 🏆 Certifications
+
+🏅 NPTEL – Programming, Data Structures & Algorithms using Python (2025)  
+🏅 Coursera – Java Certification (2024)  
+🏅 Cambridge English Empower Level C1 (2024)  
+🏅 24-Hour Hackathon – ALEAP WEHUB @ JNTUH  
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **harikalokam2005@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/harika-lokam-4b7b1b2a1  
+💻 GitHub: https://github.com/LokamHarika  
+✍ Medium: https://medium.com/@harikalokam2005  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LokamHarika&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokamHarika&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokamHarika&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LokamHarika&show_icons=true&locale=en&layout=compact" alt="LokamHarika" />
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LokamHarika&show_icons=true&locale=en" alt="LokamHarika" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LokamHarika&" alt="LokamHarika" />
-</p>
+<h3 align="center">✨ “Turning Ideas into Intelligent Solutions” ✨</h3>
